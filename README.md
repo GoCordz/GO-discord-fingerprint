@@ -1,5 +1,4 @@
 # GDF---GO-discord-fingerprint
-Get Discord Fingerprints  without getting a ratelimit  
 <img width="408" alt="image" src="https://user-images.githubusercontent.com/110062350/190605621-b1a979e8-1030-41f1-b8c6-a6dbfa2a3767.png">
 
 ```rb

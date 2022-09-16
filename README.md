@@ -7,5 +7,5 @@ go run main.go
 ```
 ```rb
 if go isnt installed go to https://golang.dev
-else just go to the releases and get the compiled build
+or just use the exe
 ```

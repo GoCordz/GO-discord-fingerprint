@@ -6,6 +6,6 @@ run file:
 go run main.go
 ```
 ```rb
-if go isnt installed https://golang.dev
+if go isnt installed go to https://golang.dev
 else just go to the releases and get the compiled build
 ```
